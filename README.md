@@ -1,7 +1,7 @@
 # Proglacial_floodplain_diversity
 Investigating the diversity patterns of pstreams draining progalcial floodplains through analysis of water physio-chemical parameters, biofilm biomass and activity, alpha diversity, comunity structure and co-occurence network analysis. 
 
-The data can be found on: (to be filled) 
+The data can be found on: 10.5281/zenodo.6424496 
 
 R script available: 
 - Water physiochemical parameters: Water_physiochemical.R
