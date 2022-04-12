@@ -18,7 +18,7 @@ library(tabula)
 library(tidyr)
 ######
 # Here we are working with a file containing all water physio chemical information "water". 
-
+water <- read.csv("data/water_data.csv", row.names = 1)
 #### PCA   ----
 Stream <-c("#73DFFF","#FFA300")
 #Val Roseg 
